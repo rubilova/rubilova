@@ -9,7 +9,7 @@ About me:
 - 💬 Ask me about: - anything
 - 📫 How to reach me: - yelena.rubilova@gmail.com
 - 😄 Pronouns: she/her/hers
-- ⚡ What I do for fun: - training for my 4th marathon (Jersey City in April)
+- ⚡ What I do for fun: - I run every day and train for races 🏃‍♀️
 ![](https://hit.yhype.me/github/profile?account_id=26467865)
 <!--
 **rubilova/rubilova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
