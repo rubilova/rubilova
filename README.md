@@ -2,13 +2,13 @@
 
 About me:
 
-- 🔭 I’m currently working on: - iOS Fitness App
+- 🔭 I’m currently working on: - Rejuvenate Fitness App: https://apps.apple.com/app/rejuvenate-fitness/id6502963558
 - 🌱 I’m currently learning: - SwiftUI Advanced Architecture: https://www.swiftful-thinking.com/products/swiftui-advanced-architecture
 - 👯 I’m looking forward to: - collaborate on your iOS App projects
 - 🤔 I’m always open to: - discuss new ideas
 - 💬 Ask me about: - anything
 - 📫 How to reach me: - yelena.rubilova@gmail.com
-- 😄 Pronouns: she/her/hers
+- Pronouns: she/her/hers
 - ⚡ What I do for fun: - I run every day and train for races 🏃‍♀️
 ![](https://hit.yhype.me/github/profile?account_id=26467865)
 <!--
